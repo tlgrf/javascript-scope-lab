@@ -1,7 +1,5 @@
 const burgers = ['Hamburger', 'Cheeseburger'];
 let featuredDrink = 'Strawberry Milkshake';
-console.log(burgers)
-console.log(featuredDrink)
 function addBurger() {
   
   const newBurger = 'Flatburger';
@@ -15,7 +13,3 @@ function addBurger() {
 function changeFeaturedDrink() {
   featuredDrink = 'The JavaShake';
 }
-addBurger();
-changeFeaturedDrink ();
-console.log(burgers)
-console.log(featuredDrink)
